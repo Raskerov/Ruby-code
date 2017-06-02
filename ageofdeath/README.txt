@@ -1,16 +1,19 @@
 Zadanie testowe z Ruby
 
-Aby uruchomiæ testy wystarczy wpisac w konsoli w tym folderze:
-- rspec spec
-
-U¿yte gemy:
+UÅ¼yte gemy:
 -date
 -pry
 -pry-nav
 -rspec
 
-Test znajduje siê w /spec/task_spec.rb
+Autor: Robert 'Raskerov' Sikora
 
-Kod znajduje siê w /lib/Task.rb
+Ruby task
 
-Autor: Robert Sikora
+Used gems:
+-date
+-pry
+-pry-nav
+-rspec
+
+Author: Robert 'Raskerov' Sikora
